@@ -34,7 +34,11 @@ namespace UnityDemo.Models
             _cards.Clear();
         }
 
+#if UnitTest
+        public Card AddCard(Card card)
+#else
         internal Card AddCard(Card card)
+#endif
         {
             _cards.Add(card);
             return card;

@@ -8,23 +8,29 @@ using UnityEngine;
 
 public class DeckTest
 {
-    [Test]
-    public void 덱에는_광이_3장있어야_함()
+    private List<Card> _cards;
+
+    [SetUp]
+    public void Init()
     {
         Deck.Instance.PrepareNewRound();
 
-        List<Card> cards = new List<Card>();
+        _cards = new List<Card>();
         for (int i = 0; i < 20; i++)
         {
             Card card = Deck.Instance.Draw();
-            cards.Add(card);
+            _cards.Add(card);
         }
+    }
 
+    [Test]
+    public void 덱에는_광이_3장있어야_함()
+    {
 //        int kwangCount = 0;
-//        foreach (var card in cards)
+//        foreach (var card in _cards)
 //            if (card.IsKwang)
 //                kwangCount++;
-        int kwangCount = cards.Count(i => i.IsKwang);
+        int kwangCount = _cards.Count(i => i.IsKwang);
 
         Assert.AreEqual(3, kwangCount);
     }
@@ -32,18 +38,9 @@ public class DeckTest
     [Test]
     public void 덱에는_1부터_10까지의_카드가_2장씩_있어야_함()
     {
-        Deck.Instance.PrepareNewRound();
-
-        List<Card> cards = new List<Card>();
-        for (int i = 0; i < 20; i++)
-        {
-            Card card = Deck.Instance.Draw();
-            cards.Add(card);
-        }
-
         for (int no = 1; no <= 10; no++)
         {
-            int numberCount = cards.Count(x => x.No == no);
+            int numberCount = _cards.Count(x => x.No == no);
             Assert.AreEqual(2, numberCount);
         }
     }
