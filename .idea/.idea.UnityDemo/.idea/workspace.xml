@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b34f241-dec2-4fdb-ba4e-6cf13b1dc542" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDemo/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets/Tests.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Scorers/BasicScorer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Scorers/BasicScorer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityPackageManager/manifest.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BasicScorerTest_김대한.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김대한.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-225">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+              <folding>
+                <marker date="1528177996522" expanded="false" signature="6:194" ph="..." />
+                <marker date="1528177996522" expanded="true" signature="218:4315" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="250:4313" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="335:593" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="471:583" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="670:1216" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="1292:1837" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="1916:2460" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="2540:3110" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="3190:3804" ph="{...}" />
+                <marker date="1528177996522" expanded="true" signature="3876:4307" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Models/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="76" selection-end-column="9" />
+              <folding>
+                <marker date="1528168892563" expanded="true" signature="59:2329" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="83:2257" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="111:207" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="388:449" ph="/// 새 라운드를 시작한다. ... " />
+                <marker date="1528168892563" expanded="true" signature="485:531" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="541:646" ph="/// 스코어를 선택한다. ... " />
+                <marker date="1528168892563" expanded="true" signature="702:771" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="781:852" ph="/// 플레이어들에게 카드를 두 장씩 나눠준다. ... " />
+                <marker date="1528168892563" expanded="true" signature="890:1191" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="1201:1296" ph="/// 승자의 인덱스를 반환한다. ... " />
+                <marker date="1528168892563" expanded="true" signature="1332:1635" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="1645:1769" ph="/// 파산한 플레이어를 반환한다. ... " />
+                <marker date="1528168892563" expanded="true" signature="1807:1972" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="2090:2160" ph="{...}" />
+                <marker date="1528168892563" expanded="true" signature="2285:2327" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Models/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1528168892565" expanded="true" signature="61:1110" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="87:1108" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="128:240" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="431:479" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="527:575" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="616:664" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="771:846" ph="{...}" />
+                <marker date="1528168892565" expanded="true" signature="856:996" ph="/// n 번째 카드를 반환한다. ... " />
+                <marker date="1528168892565" expanded="true" signature="1036:1102" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/DeckTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_최정빈.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김수민.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_이경수.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/SimpleScorerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김대한.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Scorers/SimpleScorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Scorers/Scorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Scorers/BasicScorer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김수민.cs" />
+        <option value="$PROJECT_DIR$/Assets/Assets/Tests/BasicScorerTest_김대한.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/DeckTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Models/Scorers/BasicScorer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김대한.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scorers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityDemo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="11624">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="11624" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b34f241-dec2-4fdb-ba4e-6cf13b1dc542" name="Default" comment="" />
+      <created>1528169072985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528169072985</updated>
+      <workItem from="1528169078655" duration="237000" />
+      <workItem from="1528169365363" duration="5479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5716000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="bottom" id="Build" weight="0.32897604" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39978212" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김수민.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1528168892569" expanded="false" signature="6:115" ph="..." />
+            <marker date="1528168892569" expanded="true" signature="139:185" ph="{...}" />
+            <marker date="1528168892569" expanded="true" signature="171:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_최정빈.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Assets/Tests/BasicScorerTest_김대한.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김수민.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1528168892569" expanded="false" signature="6:115" ph="..." />
+            <marker date="1528168892569" expanded="true" signature="139:185" ph="{...}" />
+            <marker date="1528168892569" expanded="true" signature="171:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_이경수.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528168892569" expanded="false" signature="6:115" ph="..." />
+            <marker date="1528168892569" expanded="true" signature="139:185" ph="{...}" />
+            <marker date="1528168892569" expanded="true" signature="171:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/SimpleScorerTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528168892570" expanded="false" signature="6:112" ph="..." />
+            <marker date="1528168892570" expanded="true" signature="136:782" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="172:780" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="221:288" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="350:774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Scorers/Scorer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1528168892566" expanded="false" signature="0:32" ph="##region" />
+            <marker date="1528168892566" expanded="true" signature="68:590" ph="{...}" />
+            <marker date="1528168892566" expanded="true" signature="103:588" ph="{...}" />
+            <marker date="1528168892566" expanded="true" signature="233:582" ph="{...}" />
+            <marker date="1528168892566" expanded="true" signature="275:572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/DeckTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1528168892570" expanded="true" signature="10:148" ph="..." />
+            <marker date="1528168892570" expanded="true" signature="171:987" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="240:462" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="360:456" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="507:748" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="514:646" ph="/* int kwangCount = 0; ... */" />
+            <marker date="1528168892570" expanded="true" signature="806:985" ph="{...}" />
+            <marker date="1528168892570" expanded="true" signature="853:979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.Rider2018.1/system/log/UnitTestLogs/eb90e2e0-e63b-493a-8d60-fae41fc4d4a6___2018-06-05-14-22-20-195.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528168892562" expanded="false" signature="0:52" ph="##region" />
+            <marker date="1528168892562" expanded="true" signature="80:499" ph="{...}" />
+            <marker date="1528168892562" expanded="true" signature="105:497" ph="{...}" />
+            <marker date="1528168892562" expanded="true" signature="153:225" ph="{...}" />
+            <marker date="1528168892562" expanded="true" signature="364:491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Scorers/SimpleScorer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528168892567" expanded="true" signature="34:302" ph="{...}" />
+            <marker date="1528168892567" expanded="true" signature="75:300" ph="{...}" />
+            <marker date="1528168892567" expanded="true" signature="144:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Scorers/BasicScorer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <marker date="1528176387601" expanded="true" signature="49:718" ph="{...}" />
+            <marker date="1528176387601" expanded="true" signature="89:716" ph="{...}" />
+            <marker date="1528176387601" expanded="true" signature="158:386" ph="{...}" />
+            <marker date="1528176387601" expanded="true" signature="437:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528168892565" expanded="true" signature="61:1110" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="87:1108" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="128:240" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="431:479" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="527:575" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="616:664" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="771:846" ph="{...}" />
+            <marker date="1528168892565" expanded="true" signature="856:996" ph="/// n 번째 카드를 반환한다. ... " />
+            <marker date="1528168892565" expanded="true" signature="1036:1102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="76" selection-end-column="9" />
+          <folding>
+            <marker date="1528168892563" expanded="true" signature="59:2329" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="83:2257" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="111:207" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="388:449" ph="/// 새 라운드를 시작한다. ... " />
+            <marker date="1528168892563" expanded="true" signature="485:531" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="541:646" ph="/// 스코어를 선택한다. ... " />
+            <marker date="1528168892563" expanded="true" signature="702:771" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="781:852" ph="/// 플레이어들에게 카드를 두 장씩 나눠준다. ... " />
+            <marker date="1528168892563" expanded="true" signature="890:1191" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="1201:1296" ph="/// 승자의 인덱스를 반환한다. ... " />
+            <marker date="1528168892563" expanded="true" signature="1332:1635" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="1645:1769" ph="/// 파산한 플레이어를 반환한다. ... " />
+            <marker date="1528168892563" expanded="true" signature="1807:1972" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="2090:2160" ph="{...}" />
+            <marker date="1528168892563" expanded="true" signature="2285:2327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/BasicScorerTest_김대한.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <marker date="1528177996522" expanded="false" signature="6:194" ph="..." />
+            <marker date="1528177996522" expanded="true" signature="218:4315" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="250:4313" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="335:593" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="471:583" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="670:1216" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="1292:1837" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="1916:2460" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="2540:3110" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="3190:3804" ph="{...}" />
+            <marker date="1528177996522" expanded="true" signature="3876:4307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

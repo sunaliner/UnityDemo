@@ -1,4 +1,6 @@
-﻿namespace UnityDemo.Models.Scorers
+﻿using System;
+
+namespace UnityDemo.Models.Scorers
 {
     public class BasicScorer : Scorer
     {
@@ -7,6 +9,7 @@
             int score1 = CalculateScore(p1);
             int score2 = CalculateScore(p2);
 
+            
             if (score1 > score2)
                 return p1;
             else
